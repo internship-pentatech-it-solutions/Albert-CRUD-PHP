@@ -1,0 +1,17 @@
+.title-text{
+    text-align: center;
+}
+/* .body{
+    
+} */
+
+li{
+    display: inline-block;
+}
+
+li a{
+    color: black;
+    text-decoration: none;
+    
+}
+
